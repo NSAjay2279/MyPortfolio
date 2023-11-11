@@ -3,12 +3,12 @@ body {
     margin-top: 60px;
 }
 
-.center {
-    text-align: center;
-}
-
 .text-big {
     font-size: 300%;
+}
+
+.center {
+    text-align: center;
 }
 
 .bold {
